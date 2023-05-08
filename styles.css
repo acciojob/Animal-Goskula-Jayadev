@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+img{width:32%; border-radius:20px; }
+body{ background-color:rgb(68,68,68) ;}
+.container{padding-left:40px;}
